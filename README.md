@@ -32,6 +32,8 @@ You don't know yet if it's true.
 
 **Neither does anyone else**, and that's exactly the problem. While you're reading this sentence, the claim is moving to the next platform. It doesn't wait for you to catch up.
 
+You have **30 minutes.** No pause button. No do-overs mid-run. Every action moves the clock forward, and the story keeps spreading while you decide.
+
 Two meters run against each other:
 
 | Meter | What it tracks |
@@ -39,10 +41,11 @@ Two meters run against each other:
 | 🔥 **Harmful Reach** | How far the false claim and the backlash it drags with it has spread |
 | 🧭 **Awareness** | How far *accurate* information has actually reached people |
 
-**First one to 100% wins the run.** Get Awareness there first → contained. Let Harmful Reach win → not contained.
+**The goal isn't simply to hit 100%.** Awareness reaching 100% ends the run immediately in a contained outcome. If the 30-minute clock expires before either meter reaches 100%, **Awareness must be higher than Harmful Reach to contain the incident.**
 
-There is no pause. The clock ticks in real time, and it never waits for you to feel ready.
+If Harmful Reach reaches 100% first, the incident is not contained. If the clock reaches 30:00 and Harmful Reach is equal to or higher than Awareness, it is also not contained.
 
+The clock doesn't care if you're ready.
 ---
 
 ## 🎮 Play it - no install, no excuses
@@ -52,20 +55,20 @@ Open `first-30-minutes-dashboard.html` in any browser. That's the whole setup. N
 
 ## 🧩 Your moves, and why none of them are free
 
-Every action costs real time off the clock. Most of them can only be used **once per run**. Wait/Monitor is the only repeatable one. Burn an action in the wrong moment and it's gone for the rest of the case.
+Every action costs real time off the clock. Most verification and response actions can only be used **once per run**, but **Escalate to Trust & Safety is repeatable** whenever a new qualifying post appears. **Wait / Monitor is also repeatable.**
 
 | Action | Time cost | The catch |
-|---|---|---|
-| 🔎 **Verify with original poster** | 45s | Fast, but they're anonymous. Might go quiet. Might make it worse. |
-| 📰 **Contact local news desk** | 90s | Slow, but a confirmed source hits different. Might come back empty. |
-| 🧠 **Do your own research online** | 60s | A coin flip unless the news desk already left you a lead. |
-| 📢 **Post public correction** | 60s | Verified facts land hard. Post it *unverified* and it reads as a bare denial and draws backlash accusing you of protecting your own. |
-| 💬 **Reply directly to the post** | 30s | Only works on the platform hosting the original post. Might cool the thread. Might get quote-shared straight into a bigger audience. |
-| 📣 **Post independent awareness message** | 60s | Same rule as public correction, your credibility decides whether it helps or backfires. |
-| 🤝 **Escalate to trust & safety** | 75s | Too early and they won't even open a case. Wait too long and the report barely slows anything down. |
-| ⏳ **Wait / monitor** | 60s | The only move you can repeat. Sometimes the smartest play, if your last verified post is still landing. Sometimes it's just handing the clock to the other side. |
+|---|---:|---|
+| 🔎 **Verify with original poster** | 4 min | Fastest verification route, but they're anonymous. They might go quiet — or make the situation worse. |
+| 📰 **Contact local news desk** | 5 min | Slower, but a confirmed source is far more reliable. It may come back empty. |
+| 🧠 **Do your own research online** | 2.5 min | Can uncover credible information on its own. If it fails, the news desk becomes guaranteed to provide credible information next. |
+| 📢 **Post public correction** | 2.5 min | Verified facts can help. Posting before verification risks confusion and backlash. |
+| 💬 **Reply directly to the post** | 30 sec | Only works on the original platform. It might cool the thread — or get quote-shared into an even bigger audience. |
+| 📣 **Post independent awareness message** | 2.5 min | Your credibility matters. Verified information can build awareness; posting without verification can backfire. |
+| 🤝 **Escalate to trust & safety** | 38 sec | **Repeatable.** A report can open a case when the newest post contains an unverified added detail. You can escalate again when a new qualifying post appears. |
+| ⏳ **Wait / monitor** | 2.5 min | **Repeatable.** Useful after verified information has been published and is circulating. Otherwise, harmful reach continues growing while you wait. |
 
-**There's no "correct answer" button.** Verifying costs you time you don't have. Acting fast without facts can backfire on the community you're trying to protect. Every choice is a trade, and you don't see the trade-off until after you've made it.
+**There's no "correct answer" button.** Verifying costs time you don't have. Acting fast without facts can backfire on the community you're trying to protect. Escalation can be repeated, but only qualifying new posts can trigger a new case. Every choice is a trade.
 
 ---
 
@@ -81,10 +84,25 @@ The claim spreads across **six fictional platforms** — Chirp, Reelz, Facewall,
 
 ## 🏁 What "winning" actually looks like
 
-When a meter hits 100%, the run ends and you get the full breakdown: time elapsed, final Harmful Reach %, final Awareness %, and if you win, your best time gets saved locally so you can try to beat it next run.
+You don't have to push either meter all the way to 100% to contain the incident.
 
-- **Contained** : Verified information outran the claim before real damage spread, including the hateful pile-on a careless correction can trigger.
-- **Not contained** : The false claim won the race. By the time anything corrective broke through, the harmful narrative and everything it dragged out along the way had already reached everyone it was going to reach.
+There are **two ways to contain the situation**:
+
+- 🟢 **Awareness reaches 100% first** → contained immediately.
+- 🟢 **The 30-minute clock expires with Awareness higher than Harmful Reach** → contained. You successfully got accurate information ahead of the harmful narrative, even if neither meter reached 100%.
+
+If the **30-minute clock expires while Harmful Reach is equal to or higher than Awareness**, the incident is **not contained**.
+
+The run can also end immediately if either meter reaches **100%**.
+
+### The important distinction
+
+**Contained doesn't mean the harm disappeared.**
+
+It means that, by the end of the response window, accurate information has gained enough ground to overtake the harmful narrative — or has already reached everyone it needs to reach.
+
+- **Contained** → Awareness wins the race, either by reaching 100% first or by being higher than Harmful Reach when the 30-minute response window closes.
+- **Not contained** → Harmful Reach reaches 100% first, or the clock runs out while Harmful Reach is equal to or ahead of Awareness.
 
 Neither outcome is scripted. It's entirely down to what you did with your 30 minutes.
 
@@ -100,11 +118,11 @@ Nothing but themselves and their doomscrolling skills. They open the file alread
 **Decision: What information shapes the decision?**
 Two live meters (Harmful Reach vs. Awareness), a platform sidebar with unread flags showing where the story has spread, follower counts on who's posting what, and critically whether they've verified anything yet. That last one is the hinge: every action's outcome branches on whether the player is verified, so "do I have confirmed facts or not" is the single piece of information that determines whether posting helps or backfires.
 
-**Action: What happens next?**
-They pick from eight one-time-use moves (verify with poster, contact news desk, do their own research, post a correction, reply directly, post independent awareness, escalate to trust & safety) or the repeatable Wait/Monitor. Each action burns real seconds off the clock and immediately triggers a scripted outcome, a coin-flip verification result, a backlash reply, a cooled thread, a trust & safety response, logged live in the Incident Log sidebar.
+**Action: What happens next?**  
+They pick from verification and response moves with different time costs. Most actions are limited to once per run, while **Escalate to Trust & Safety can be repeated when new qualifying posts appear, and Wait / Monitor can always be repeated**. Each action burns real seconds off the clock and immediately triggers its outcome — a verification result, backlash, awareness gain, escalation case, or continued spread — all logged live in the Incident Log sidebar.
 
-**Result: What changes, and how do you show it?**
-The two meters move. Harmful Reach and Awareness shift in response to that single action, the run either continues or ends the moment one hits 100%, and the end screen shows the receipt: elapsed time, final percentages on both meters, a plain-language outcome ("Contained" or "Not contained"), and if they won, a saved best time to beat next run. Nothing is hidden after the fact; the score bars and the log are the proof of what that specific decision cost or earned.
+**Result: What changes, and how do you show it?**  
+The two meters move and the clock advances. Harmful Reach and Awareness shift in response to each decision. The run ends if either meter reaches 100%, or when the **30-minute response window expires**. At time-out, Awareness is compared directly against Harmful Reach: **if Awareness is higher, the incident is contained; otherwise, it is not contained.** The end screen shows the receipt: elapsed time, final percentages on both meters, and the plain-language outcome.
 
 ---
 
@@ -225,9 +243,11 @@ Built for the **Harvest Anti-Muslim Hate Hackathon**, hosted by the **Global Net
 
 <div align="center">
 
-**The claim already has a head start.**
+**The claim already has a head start.**  
 **You have 30 minutes to close the gap.**
 
-⏱️ The clock starts the second you open the file.
+⏱️ The clock starts the second you begin the incident.
+
+**Reach 100% first, or finish the 30 minutes with Awareness ahead.**
 
 </div>
