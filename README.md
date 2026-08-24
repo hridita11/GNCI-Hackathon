@@ -26,7 +26,7 @@ This is not a game about hate speech for shock value. It's a rehearsal for the m
 
 ## 🕵️ The case
 
-At **T+0:00**, a claim drops on **Y** (the origin platform): mosque members allegedly attacked town hall attendees who opposed a mosque expansion. It's already got a video attached. It's already got comments. It's already got momentum.
+At **T+0:00**, a claim drops on **Chirp** (the origin platform): mosque members allegedly attacked town hall attendees who opposed a mosque expansion. It's already got a video attached. It's already got comments. It's already got momentum.
 
 You don't know yet if it's true.
 
