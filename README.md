@@ -46,12 +46,6 @@ There is no pause. The clock ticks in real time, and it never waits for you to f
 ---
 
 ## 🎮 Play it - no install, no excuses
-
-```bash
-git clone <this-repo>
-cd <this-repo>
-```
-
 Open `first-30-minutes-dashboard.html` in any browser. That's the whole setup. No server, no account, no dependencies, nothing to configure.
 
 ---
@@ -69,7 +63,7 @@ Every action costs real time off the clock. Most of them can only be used **once
 | 💬 **Reply directly to the post** | 30s | Only works on the platform hosting the original post. Might cool the thread. Might get quote-shared straight into a bigger audience. |
 | 📣 **Post independent awareness message** | 60s | Same rule as public correction, your credibility decides whether it helps or backfires. |
 | 🤝 **Escalate to trust & safety** | 75s | Too early and they won't even open a case. Wait too long and the report barely slows anything down. |
-| ⏳ **Wait / monitor** | 60s | The only move you can repeat. Sometimes the smartest play — if your last verified post is still landing. Sometimes it's just handing the clock to the other side. |
+| ⏳ **Wait / monitor** | 60s | The only move you can repeat. Sometimes the smartest play, if your last verified post is still landing. Sometimes it's just handing the clock to the other side. |
 
 **There's no "correct answer" button.** Verifying costs you time you don't have. Acting fast without facts can backfire on the community you're trying to protect. Every choice is a trade, and you don't see the trade-off until after you've made it.
 
