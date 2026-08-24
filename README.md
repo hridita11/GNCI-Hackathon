@@ -219,7 +219,7 @@ The research is why this exists. The simulation itself is fiction, start to fini
 
 ## 👩‍💻 Built by
 
-Subaita Mamun, Proshun Doza, Oyonti Nasir
+Oyonti Nasir, Proshun Doza, Subaita Mamun
 
 Built for the **Harvest Anti-Muslim Hate Hackathon**, hosted by the **Global Network on Combatting Islamophobia (GNCI)**.
 
