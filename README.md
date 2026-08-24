@@ -49,7 +49,7 @@ The clock doesn't care if you're ready.
 ---
 
 ## 🎮 Play it - no install, no excuses
-Open `first-30-minutes-dashboard.html` in any browser. That's the whole setup. No server, no account, no dependencies, nothing to configure.
+Open `chronically-online.html` in any browser. That's the whole setup. No server, no account, no dependencies, nothing to configure.
 
 ---
 
